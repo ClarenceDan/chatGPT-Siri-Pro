@@ -21,7 +21,7 @@
 
 🎁这是一款将chatGPT 集成到 Siri 的项目，采用快捷指令编写，支持国内直连，支持直接体验或者用APIKEY 使用，已更新 gpt-3.5-turbo，支持连续对话功能。
 
-![](https://secure2.wostatic.cn/static/8DHgTP1jzajzJovu5HRHfH/image.png?auth_key=1678184972-vbSxgxm6LWq8HeHT6VYk7B-0-271e091475b8137f658a3b6511780e10)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230307/79f697a3b2a18.png)
 
 本快捷指令主要支持 **iPhone**  和  **iPad ​**，还支持在 Apple Watch 和 macOS（暂未测试） 中使用，支持抬手唤醒和轻敲手机背面唤醒。
 
@@ -44,17 +44,17 @@
 
 点开上方提供的的下载链接，或**[点击此处](https://askgptai.com/siripro)**获取快捷指令，在 iOS 设备上安装本快捷指令。
 
-![](https://secure2.wostatic.cn/static/cPm3BRkwFDMm5V2HBqWftX/image.png?auth_key=1678184972-9CS9LqdWkYduFNqFFFn8eq-0-c0a37f15b638aeb6a7137148c57400cc)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/45c9781b98fe2.png)
 
 ### **填入你的 APIKEY**
 
 删除快捷指令中的要求填入APIKEY的文本框内容，粘贴你的 APIKEY，获得支持连续对话的完全体。⚠请注意，填入APIKEY 后不要直接用你自己的 iCloud链接分享快捷指令，这会**导致你的 APIKEY 泄露**！！
 
-![](https://secure2.wostatic.cn/static/2goTMvRvpQ5w6Z8hfubS3Y/image.png?auth_key=1678184972-fBFiDvXXdujj9C1un67zY7-0-b348366a49079c718ee4d16c9ae009b0)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/7b6127825440f.png)
 
 如果你有 OpenAI 账号但还没有APIKEY，可以前往官网下图位置生成你的 APIKEY：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
 
-![](https://secure2.wostatic.cn/static/p9wCPFnpSD1C4FN9bPs8YG/image.png?auth_key=1678184972-fEmRLoe5SKfNFqviwtNGpT-0-a95e51fbdb7da6bb47da5052790d4950)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230308/33272423dd5c9.png)
 
 如果你没有OpenAI 账号，也可以免费体验无连续对话的版本，或者尝试搜索自行注册账号，目前新账号附赠 5 美元体验余额，支持约125万字的对话。
 
@@ -65,7 +65,7 @@
 
 如果没有填入 APIKEY，也可以直接使用，但暂不支持连续对话功能。第三方接口可能不够稳定，如果没有获取到答案会返回下列内容：
 
-![](https://secure2.wostatic.cn/static/tgndpBbzEFJV376hP9VA48/6f476e7af6f9701f8754b22cb461afb.jpg?auth_key=1678184972-8DwUw2JuFkzNoenupk6kv-0-071b7d0cd3a768e8e04ee190eb3a1dc8)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/101a1c6f62d32.jpg)
 
 ## 开始使用
 
@@ -73,29 +73,29 @@
 
 对着 iPhone/iPad/watch/Mac 说：**Hey Siri，展开智子**，即可与 chatGPT 开始对话，图片是接入前和接入后 Siri 对于同一个问题的回答。
 
-![](https://secure2.wostatic.cn/static/k6N6xyP9FDCeZiEGwgoMqJ/705663e1c9176e4fca0b9056fcadb21.jpg?auth_key=1678184972-kvkdnKHiKxzZAQAc69XnsA-0-0f02263d35df5e383d608b514b753e8b)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/6e51cc8ffcaa7.jpg)
 
 如果觉得第一次的回答还不够，可以继续追问 Siri，如下图为追问后的结果：
 
-![](https://secure2.wostatic.cn/static/mEzrfb933bcmMXLXxBwR8H/afaef5bd416526d474598643bee6dfa.jpg?auth_key=1678184972-rz3v4mWFCi8nvzjMoVd8d1-0-440fbc6724462b5102cdb43167cfcb4e)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/f7293c87414c2.jpg)
 
 ### **自定义唤醒词**
 
 如果觉得 【**展开智子**】 这个名字不够得劲儿，可以自定义唤醒词，直接修改该快捷指令的标题即可，如：召唤二狗子，iOS 16 设备点击快捷指令顶部的标题-重新命名 修改名称，iOS 15 及更低版本的设备点击标题即可弹出对话框修改名称。
 
-![](https://secure2.wostatic.cn/static/u3uVfdngdvsK5mAvFzVD2U/image.png?auth_key=1678184972-aBSWo5h9nMiPPoDd5Db4QS-0-fb403b79bcce6e4994fdf51886d1ac3e)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/9dd5ce36acdb7.png)
 
 ### **设置轻敲唤醒**
 
 iPhone 8 及后续设备支持轻敲手机背面，唤醒特定的快捷指令，按照图片提示进入 **【设置】-【辅助功能】-【触控】-【轻点背面】**，将【**轻点两下**】设置为本快捷指令【**展开质子**】，轻敲手机背面即可唤起文字输入，使用 iPhone键盘的听写也能快速语音输入。
 
-![](https://secure2.wostatic.cn/static/ahKgKRAFmRk38vNquUhycf/c288b5ecb223e95dd186e2c8ebb68ef.jpg?auth_key=1678184972-og12q4bgz8yFGCA7jRAAES-0-8c48b5db8957da64d65f7ad4fd7cfc10)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/c8669f0af6236.jpg)
 
 ### **设置抬腕唤醒**
 
 在 【**Watch**】 应用 - 【**Siri**】 中打开【**抬腕对话**】功能，抬手直接说【**展开智子**】即可快速与 chatGPT 对话。（该功能通常是默认开启的）
 
-![](https://secure2.wostatic.cn/static/kXwPYvfGbQ6zgof4cNzo7E/a65bc8ef1f852dbeca879b033e8903f.jpg?auth_key=1678184972-mWJ6iuZJXTPCk1tSnyVbx7-0-f782269a1afe3094dcc25f196b98fcc2)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/34f136db11aca.jpg)
 
 # 进阶玩法：
 
@@ -103,19 +103,19 @@ iPhone 8 及后续设备支持轻敲手机背面，唤醒特定的快捷指令�
 
 本快捷指令支持简单的 **prompt 设定**，通过设定可以获得更专业精确的回答，初始设定是作为个人智能助理，如果需要调整设定，可以在快捷指令中修改 prompt 文本中的内容
 
-![](https://secure2.wostatic.cn/static/kJF11sNE5nt5x3viMYsKuu/image.png?auth_key=1678184972-nn7aqhtzDF3KvLyfinksbK-0-ae4e63dc17b5218ad4f3e507c83a67a4)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/770fa260e05b1.png)
 
 ### **交互对话**设定
 
 本快捷指令支持 **对话交互设定**，调节后像首次启动和继续提问时，回答和询问能更连贯，例如需要Siri 每次询问之后都带上“**喵~**”，只需在指令的词典中修改右侧文字即可。
 
-![](https://secure2.wostatic.cn/static/8EwyEB4RGNuBbZAuvssWau/faa100933f44aaebd821753e409a831.jpg?auth_key=1678184972-nJ6Xdeiy9skQYqFHwEGsE2-0-1147f82874a35bba943828cca26fb2b2)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/ce2658e9076f9.jpg)
 
 ### **重新开始和退出指令**
 
 本快捷指令默认设置为 重新开始 和 没有了，当对话中包含对应文字时，快捷指令会自动相应，你也可以修改指令达到自定义控制的效果，如将 没有了 改为：跪安吧，那么快捷指令会在听到 跪安吧 之后自动退出对话。
 
-![](https://secure2.wostatic.cn/static/9fFKA8aqx2TVaR2xfxkn16/cfe23807baa05e8a464a4df11e06165.jpg?auth_key=1678184972-99tugcZStgg3xw1LjK6r8x-0-0218d703e89fa9e6fd3f62b508bd0f3a)
+![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/c09042b0c9352.jpg)
 
 # 更新路径：
 
