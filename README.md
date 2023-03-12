@@ -1,3 +1,36 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/PicGo/202303121108782.png">
+  <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/PicGo/202303121108782.png">
+</picture>
+<p align="center">
+    <br> 中文 | <a href="README_en_US.md">English</a>
+</p>
+<p align="center">
+    <em>ChatGPT meets Siri - Experience the power of chatgpt-3.5-turbo</em>
+  <br>
+    <em>体验语音驱动的人工智能问答，基于chatgpt-3.5-turbo</em>
+</p>
+
+<p align="center">
+<a href="LICENSE" target="_blank">
+    <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" />
+</a>
+
+<!-- iOS Badge -->
+<img alt="iOS" src="https://img.shields.io/badge/iOS-14--16-orange" />
+  
+<!-- iPadOS Badge -->
+<img alt="iPadOS" src="https://img.shields.io/badge/iPadOS-14--16-brightgreen" />
+
+<!-- watchOS Badge -->
+<img alt="watchOS" src="https://img.shields.io/badge/watchOS-7--9-blue" />
+
+
+<a href="https://github.com/yetone/openai-translator/releases" target="_blank">
+<img alt="macOS" src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" />
+</a>
+</p>
+
 # ChatGPT Siri Pro 快捷指令
 
 ## 目录
@@ -30,7 +63,10 @@
 💻下载地址：
 
 1. 实时更新：[https://askgptai.com/siripro](https://askgptai.com/siripro)
-2. iCloud链接：[https://www.icloud.com/shortcuts/2ea99a13958f4a3f8a20c5ff94512981](https://www.icloud.com/shortcuts/2ea99a13958f4a3f8a20c5ff94512981)
+2. iCloud链接：[https://www.icloud.com/shortcuts/0397545885e04f9eb70c49a6a03b9246](https://www.icloud.com/shortcuts/0397545885e04f9eb70c49a6a03b9246)
+
+👆更新时间：2023.03.12 10:42
+
 
 # 使用说明
 
@@ -116,10 +152,3 @@ iPhone 8 及后续设备支持轻敲手机背面，唤醒特定的快捷指令�
 本快捷指令默认设置为 重新开始 和 没有了，当对话中包含对应文字时，快捷指令会自动相应，你也可以修改指令达到自定义控制的效果，如将 没有了 改为：跪安吧，那么快捷指令会在听到 跪安吧 之后自动退出对话。
 
 ![](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/20230309/c09042b0c9352.jpg)
-
-# 更新路径：
-
-1. 当前连续对话需要将每轮对话全部传回到 chatGPT，受到最大token 数限制（4096个英文或2000字左右中文），后续考虑用 prompt enginering 优化，使最大对话轮次得以提高。
-2. 当前对话不支持保存对话内容，后续考虑增加保存对话内容的版本。
-3. 当前体验接口在 iOS 16 上的中文回复内容是乱码，正在测试解决该问题
-4. 还在想，如果你有很好的想法或需求，可以在 Github 上提交 issue，我们也正在制作收集表格，收集大家的反馈，制作更高效的AI快捷指令，一起享受 AI 的春天吧！
