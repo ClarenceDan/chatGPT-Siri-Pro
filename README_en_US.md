@@ -62,7 +62,7 @@ This shortcut mainly supports iPhone and iPad, and also supports use on Apple Wa
 💻The latest version ver 2.3 download links:
 
 1. Real-time update: [https://askgptai.com/siripro](https://askgptai.com/siripro "https://askgptai.com/siripro")
-2. iCloud link: [https://www.icloud.com/shortcuts/0397545885e04f9eb70c49a6a03b9246](https://www.icloud.com/shortcuts/0397545885e04f9eb70c49a6a03b9246 "https://www.icloud.com/shortcuts/0397545885e04f9eb70c49a6a03b9246")
+2. iCloud link: [https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39]("https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39")
 
 👆Updated on: March 12th, 2023 at 10:42 AM.
 
