@@ -63,7 +63,7 @@
 💻下载地址：
 
 1. 实时更新：[https://askgptai.com/siripro](https://askgptai.com/siripro)
-2. iCloud链接：[https://www.icloud.com/shortcuts/0397545885e04f9eb70c49a6a03b9246](https://www.icloud.com/shortcuts/0397545885e04f9eb70c49a6a03b9246)
+2. iCloud链接：[https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39](https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39)
 
 👆更新时间：2023.03.12 10:42
 
