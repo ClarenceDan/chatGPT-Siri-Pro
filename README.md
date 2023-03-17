@@ -1,3 +1,4 @@
+## ChatGPT Siri Pro 快捷指令
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/PicGo/202303171346331.png">
   <img alt="NebulaGraph Data Intelligence Suite(ngdi)" src="https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/PicGo/202303171346331.png">
@@ -23,9 +24,7 @@
 <img alt="CarPlay" src="https://img.shields.io/badge/Carplay-%20-brightgreen" />
 </p>
 
-## ChatGPT Siri Pro 快捷指令
 
-![](<image/连续对话 (1)_dIEwMsoU1P.png>)
 
 ## 👋🏻 Introducing
 
