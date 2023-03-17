@@ -30,6 +30,8 @@
 
 只需对 Siri 说：开始聊天 ，即可快速开始与 chatGPT 开始足够智能的对话。如果厌倦了 Siri 沉闷又不够智能的回答，试试这款智能 Siri Pro吧！如果可以的话，给项目一个免费的⭐️，这是对项目最好的支持！
 
+### 💃演示：
+![演示动画](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/PicGo/202303171348290.gif#pic_center)
 
 
 ## 🔥 Features
@@ -43,8 +45,6 @@
 -   💬自定义交互：通过修改快捷指令中的交互内容，可以使对话更符合你自定义的人物性格，目前智能 Siri 支持修改包括：首次对话交互、重写开始对话交互、退出指令交互 的内容。
 -   🤖 更多：我们将在后续更新中支持反向代理等功能，敬请期待。
 
-### 💃演示：
-![演示动画](https://picloud-1302482767.cos.ap-nanjing.myqcloud.com/PicGo/202303171348290.gif#pic_center)
 
 ## 🛠️ Start to Chat
 
@@ -68,7 +68,9 @@
 
 ![](image/image_sIJM9aVUJy.png)
 
-如果你没有OpenAI 账号，可以尝试到OpenAI 官网 自行注册账号，目前新账号附赠 5 美元体验余额，可以使用很久。
+如果你没有OpenAI 账号，可以尝试到 OpenAI 官网：openai.com 自行注册账号，目前新账号附赠 5 美元体验余额，可以使用很久。
+
+如果只是需要免费体验 GPT3.5 可以前往：[askopenai.cn](https://askopenai.cn) 
 
 然后在图示位置填入你的 APIKEY，运行一次快捷指令并允许其联网，如果不填写APIKEY也能直接使用，但是不支持连续对话哦！
 
