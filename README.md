@@ -60,9 +60,9 @@
 💻下载地址：
 
 1.  实时更新：[https://askgptai.com/siripro](https://askgptai.com/siripro "https://askgptai.com/siripro")
-2.  iCloud链接：[https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39](https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39 "https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39")
+2.  iCloud链接：[https://www.icloud.com/shortcuts/455d1f1726714c01afd22b5d319869e0](https://www.icloud.com/shortcuts/455d1f1726714c01afd22b5d319869e0 "https://www.icloud.com/shortcuts/455d1f1726714c01afd22b5d319869e0")
 
-👆更新时间：2023.03.12 10:42
+👆更新时间：2023.03.22 16:51
 
 如果你已经拥有 OpenAI 账号，可以在这里生成专属于你的 APIKEY（请注意，APIKEY等同于账号密码，不要泄露）：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys "https://platform.openai.com/account/api-keys")
 
