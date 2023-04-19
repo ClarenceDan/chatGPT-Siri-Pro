@@ -59,10 +59,16 @@
 
 💻下载地址：
 
-1.  实时更新：[https://askgptai.com/siripro](https://askgptai.com/siripro "https://askgptai.com/siripro")
-2.  iCloud链接：[https://www.icloud.com/shortcuts/455d1f1726714c01afd22b5d319869e0](https://www.icloud.com/shortcuts/455d1f1726714c01afd22b5d319869e0 "https://www.icloud.com/shortcuts/455d1f1726714c01afd22b5d319869e0")
+iCloud链接：[https://www.icloud.com/shortcuts/6661e26332c74798968dcd7351cbe55a](https://www.icloud.com/shortcuts/6661e26332c74798968dcd7351cbe55a "https://www.icloud.com/shortcuts/6661e26332c74798968dcd7351cbe55a")
 
-👆更新时间：2023.03.22 16:51
+如果你需要 APIKEY,请前往：[https://sourl.cn/qDqyCn](https://sourl.cn/qDqyCn "https://sourl.cn/qDqyCn")
+
+👆更新时间：2023.04.19 23:00
+🛫v3.0.0版本更新内容：
+1. 聊天记录导出，只会在回复退出指令时出现
+2. 聊天记录自动备份，避免聊天终端导致记录丢失，备份数据保存在 文件App-快捷指令文件夹-Jarvis文件夹-Backup对应日期.txt 文件中
+3. 去掉了失效的免费线路，优化了未填写KEY的指引
+4. 支持自建反向代理线路，让数据传输更安全（看不懂可忽略）
 
 如果你已经拥有 OpenAI 账号，可以在这里生成专属于你的 APIKEY（请注意，APIKEY等同于账号密码，不要泄露）：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys "https://platform.openai.com/account/api-keys")
 
