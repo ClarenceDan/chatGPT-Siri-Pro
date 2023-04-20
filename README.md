@@ -276,7 +276,7 @@ iPhone 8 及后续设备支持轻敲手机背面，唤醒特定的快捷指令�
 
 微信群请保存二维码，到微信扫码添加：
 
-![](image/adbf7dffc1224c01e840b97b5f78da2_Jsaxt0uir7.jpg)
+![](image/wechatgroup.jpg)
 
 # 🙏 Support
 
