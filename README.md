@@ -59,11 +59,13 @@
 
 💻下载地址：
 
-iCloud链接：[https://www.icloud.com/shortcuts/6661e26332c74798968dcd7351cbe55a](https://www.icloud.com/shortcuts/6661e26332c74798968dcd7351cbe55a "https://www.icloud.com/shortcuts/6661e26332c74798968dcd7351cbe55a")
+iCloud链接：https://www.icloud.com/shortcuts/74b4101bb9744f6394cdce627b1704e9
 
-如果你需要 APIKEY,请前往：[https://sourl.cn/qDqyCn](https://sourl.cn/qDqyCn "https://sourl.cn/qDqyCn")
+如果你需要 APIKEY,请前往：https://sourl.cn/qDqyCn
 
-👆更新时间：2023.04.19 23:00
+👆更新时间：2023.04.20 22:22
+🛫v3.0.0版本更新内容：
+1. 修复了运行过程中弹出直连反代的问题
 🛫v3.0.0版本更新内容：
 1. 聊天记录导出，只会在回复退出指令时出现
 2. 聊天记录自动备份，避免聊天终端导致记录丢失，备份数据保存在 文件App-快捷指令文件夹-Jarvis文件夹-Backup对应日期.txt 文件中
@@ -154,6 +156,15 @@ iPhone 8 及后续设备支持轻敲手机背面，唤醒特定的快捷指令�
 ![](image/a65bc8ef1f852dbeca879b033e8903f_Sh5UT_uaIY.jpg)
 
 ## 💾更新日志
+### 2023.4.20
+
+***
+
+#### `3.0.1`
+
+**缺陷修复**
+
+- 解决了使用过程中直连反代链接弹出的问题
 ### 2023.4.19
 
 ***
