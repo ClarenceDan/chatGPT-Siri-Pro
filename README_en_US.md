@@ -60,8 +60,7 @@ All you need is an OpenAI API KEY and a Shortcut to use Smart Siri Pro. Configur
 
 💻 Download links:
 
-1. Real-time updates: [https://askgptai.com/siripro](https://askgptai.com/siripro "https://askgptai.com/siripro")
-2. iCloud link: [https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39](https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39 "https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39")
+1. iCloud link: [https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39](https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39 "https://www.icloud.com/shortcuts/2e9f11a8a876488fab105ddaff08ba39")
 
 👆 Update time: 2023.03.12 10:42
 
