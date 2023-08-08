@@ -59,7 +59,7 @@
 
 💻下载地址：
 
-iCloud链接：https://www.icloud.com/shortcuts/74b4101bb9744f6394cdce627b1704e9
+iCloud链接：[https://www.icloud.com/shortcuts/74b4101bb9744f6394cdce627b1704e9](https://www.icloud.com/shortcuts/4a178d2f60084d308e6be0f4079fa2fe)
 
 如果你需要 APIKEY,请前往：https://sourl.cn/qDqyCn
 
