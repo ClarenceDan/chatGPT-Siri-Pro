@@ -76,9 +76,7 @@ iCloud链接：[https://www.icloud.com/shortcuts/74b4101bb9744f6394cdce627b1704e
 
 ![](image/image_sIJM9aVUJy.png)
 
-如果你没有OpenAI 账号，可以尝试到 OpenAI 官网：openai.com 自行注册账号，目前新账号附赠 5 美元体验余额，可以使用很久。
-
-如果只是需要免费体验 GPT3.5 可以前往：[askopenai.cn](https://askopenai.cn) 
+如果你没有OpenAI 账号，可以尝试到 OpenAI 官网：openai.com 自行注册账号。
 
 然后在图示位置填入你的 APIKEY，运行一次快捷指令并允许其联网，如果不填写APIKEY也能直接使用，但是不支持连续对话哦！
 
@@ -287,22 +285,6 @@ iPhone 8 及后续设备支持轻敲手机背面，唤醒特定的快捷指令�
 -   上线了第一个版本，现在可以直接跟 Siri 进行智能对话了
 -   接入了 OpenAI 的官方API 接口，支持直接问答
 -   填入 APIKEY 即可无限制使用
-
-## 🌐联系我们
-
--   Twitter：paladiso.eth
--   即刻：唐唐同学
--   捷径社区：[@唐唐同学](https://sharecuts.cn/user/VGz48jGmzJ "@唐唐同学")
-
-### 💬交流群
-
-目前我们有微信交流群和QQ 交流群，QQ交流群点击下方链接加入：
-
-👉[交流群：713966241](https://sourl.cn/vCDKuc "交流群：713966241")
-
-微信群请保存二维码，到微信扫码添加：
-
-![](image/wechatgroup.jpg)
 
 # 🙏 Support
 
