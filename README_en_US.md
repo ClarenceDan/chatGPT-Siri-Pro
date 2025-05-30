@@ -236,23 +236,6 @@ In the 【**Watch**】 app - 【**Siri**】, turn on the 【**Raise to Speak**�
 -   Integrated OpenAI's official API, supporting direct Q&A
 -   Enter APIKEY for unlimited use
 
-## 🌐 Contact Us
-
--   Twitter: paladiso.eth
--   Instant: Tang Tang Student
--   Shortcut Community: [@唐唐同学](https://sharecuts.cn/user/VGz48jGmzJ "@唐唐同学")
-
-### 💬 Communication Groups
-
-We currently have WeChat and QQ communication groups. Click the link below to join the QQ communication group:
-
-👉[Communication Group: 713966241](https://sourl.cn/vCDKuc "Communication Group: 713966241")
-
-For the WeChat group, please save the QR code and scan it in WeChat to add:
-
-
-![](image/adbf7dffc1224c01e840b97b5f78da2_Jsaxt0uir7.jpg)
-
 # 🙏 Support
 
 If you have enjoyed using our shortcuts, we kindly ask you to give this project a ⭐️. Your endorsement means a lot to us and encourages us to work harder towards delivering the best possible experience.
